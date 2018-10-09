@@ -1,0 +1,3 @@
+     ul.listing-wrapper > li.product .sticker.preorder {
+       background: #dc0109;
+     }
